@@ -1,4 +1,6 @@
-# quizzler
+# Quizzler
+<img src="https://github.com/Rashmina2000/quizzler_flutter-app/assets/131146632/266d5af3-7267-4f14-96a5-d0236ee60f5c" width="250">
+<img src="https://github.com/Rashmina2000/quizzler_flutter-app/assets/131146632/0ae9760b-4683-4f35-b631-fc7831f1aa99" width="250">
 
 A new Flutter project.
 
